@@ -13,7 +13,8 @@ As an example -- as an artist, this app or/& site would have a simplistic format
 5. As a user, I want smooth-functional transitions from (host/app) links to (outside).
 
 ### API
-?
+A few options from this list: https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+(without attempting, there's a few that might work -- will need some guidance)
 
 #### BONUS: Wireframe
 https://wireframe.cc/oGmuwp
