@@ -3,3 +3,17 @@ For my 'Front End Portfolio Project', I'll get into the title in further detail,
 
 The purpose, functionality and idea behind this app, is to initially drive traffic and vistors to one site or one source -- within this one app, before this one app plays a key role in driving the user to explore the different personalized links to various platforms that reflect a personal, definitive and signature form of artistic expression, only unique to that particular artist's work.
 
+As an example -- as an artist, this app or/& site would have a simplistic format of buttons in the form of any shape, color or visual layout, separated with each button clickable to push the user towards whatever different platform to connect to the artist's social media pages, explore more about the artist or enjoy a showcase of the artist's talents -- visually, audibly or in some cases, interactive remotely.
+
+## User Stories
+1. As a user, I want to be able to personally DM/connect to artists on Social Media.
+2. As a user, I want to be able to hear what songs the artist has, if it's worthwhile.
+3. As a user, I want to click links to find collaborations the artist has worked on.
+4. As a user, I want to explore/exhaust/obsess ALL the artist links: a one-stop-shop!
+5. As a user, I want smooth-functional transitions from (host/app) links to (outside).
+
+### API
+?
+
+#### BONUS: Wireframe
+https://wireframe.cc/oGmuwp
