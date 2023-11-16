@@ -14,7 +14,14 @@ As an example -- as an artist, this app or/& site would have a simplistic format
 
 ### API
 A few options from this list: https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
-(without attempting, there's a few that might work -- will need some guidance)
+(without attempting, there's a few that might work -- will need some guidance).
+Here are the selected options thus far:
+https://openwhyd.github.io/openwhyd/API
+
+Lo' and behold, the exact patterning of my app, has some github info on its API:
+https://github.com/keosariel/Linktree-API 
+So I've boiled it down to Linktree's API:  
+
 
 #### BONUS: Wireframe
 https://wireframe.cc/oGmuwp
