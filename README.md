@@ -1,3 +1,3 @@
 # linkoui
-An app to provide multi-source links to define, connect and showcase artists.
+An app to provide immediate match-results for users, to find several alternative words that rhyme with each other.
 

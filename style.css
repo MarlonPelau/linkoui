@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+} */
+
+.grid-container {
+    background:  #22f307;
+}
+
+header {
+    background: #22f307;
+    color: #030a01;
+    text-align: center;
+}
+
+
+.rhyme-logo img {
+    height: 35%;
+    width: 35%;
+    object-position: top center;
+}
+
+.rhyme-logo h1{
+    font-family: monospace;
+    font-size: 25px;
+    margin: 0;
+    color: rgba(226, 44, 44, 0.664);
+}
+
+/* .image-container img {
+    border: 2px solid #020417;
+    border-radius: 3px;
+    height: 300px;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+
+.content-container {
+    display: flex;
+    flex-direction: row;
+} */
+
+marquee {
+    color: rgb(12, 1, 6);
+    font-family: cursive;
+    text-decoration: wavy;
+}
+
+  footer {
+    background: #22f307;
+
+  }
+
