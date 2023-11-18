@@ -50,6 +50,13 @@ marquee {
     text-decoration: wavy;
 }
 
+ul li img {
+    list-style-type: none;
+    display: block;
+    margin: 0 auto;
+}
+
+
   footer {
     background: #22f307;
 

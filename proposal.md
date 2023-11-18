@@ -6,8 +6,8 @@ The purpose, functionality and idea behind this app, is for users and vistors to
 As an example -- say one types in 'flan' looking for other words to rhyme with it, a variety of other words result, such as 'van', 'tan', 'ban', 'Uzbekistan' and may more!
 
 ## User Stories
-1. As a user, I want to be able to .
-2. As a user, I want to be able to .
+1. As a user, I want to be able to use words I've never used before when rhyming.
+2. As a user, I want to be able to discover new words, broaden my vocabulary in rhyme.
 3. As a user, I want to be able to hit submit w/out receiving error or blank results.
 4. As a user, I want to explore/exhaust/obsess on ALL rhyme options: a one-stop-shop!
 5. As a user, I want smooth-functional transitions from search words to rhyme matches.
