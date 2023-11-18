@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    color: cornflowerblue;
+    background-color: antiquewhite;
+};
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(247, 149, 198);
+    font-weight: bold;
+    font-size: 16px; 
+}
