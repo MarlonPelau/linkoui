@@ -15,10 +15,10 @@ access the files and more by CD-ing into the below by typing...
 
 #### Stretch Goals
 
--Stretch goals, to avoid loop-holes?!? Sure. To keep with my theme, let's explore!
-1.
-2.
-3.
+-Stretch goals to avoid loop-holes?!? To keep with my theme, sure -- let's explore!
+1. Initially added a wireframe (lo-fi) which can be found in the proposal.md file.
+2. Split my CSS into multiple files, each relating to different functionailities.
+3. MY own stretch goal include using the 'marquee' tags for text effect, adding movement; explored using .gif images instead of regular .jpeg images, again for movement as well as visual stimulation, and also hyperlinked them for functionality.
 
 -The API site can be found here: https://api-ninjas.com/api/rhyme
 
