@@ -15,7 +15,7 @@ access the files and more by CD-ing into the below by typing...
 
 #### Stretch Goals
 
--Some stretch goals so there's no loop-holes? Yes, keeping in theme, sure.
+-Stretch goals, to avoid loop-holes?!? Sure. To keep with my theme, let's explore!
 1.
 2.
 3.

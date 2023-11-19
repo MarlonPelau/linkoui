@@ -3,7 +3,7 @@ For my 'Front End Portfolio Project' the title is a playful combo based on origi
 
 The purpose, functionality and idea behind this app, is for users and vistors to find alternative words that rhyme. A user can be stuck on the variety of words that rhyme with one another, come to the app and find many matches.
 
-As an example -- say one types in 'flan' looking for other words to rhyme with it, a variety of other words result, such as 'van', 'tan', 'ban', 'Uzbekistan' and may more!
+As an example -- say one types in 'flan' looking for other words to rhyme with it, a variety of other words result, such as 'van', 'tan', 'ban', 'Uzbekistan' and many more!
 
 ## User Stories
 1. As a user, I want to be able to use words I've never used before when rhyming.
