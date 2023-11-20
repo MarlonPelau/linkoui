@@ -22,7 +22,7 @@ access the files and more by CD-ing into the below by typing...
 
 -The API site can be found here: https://api-ninjas.com/api/rhyme
 
--Here's the deployed link here: 
+-Here's the deployed link here: https://marlonpelau.github.io/linkoui/
 
 
 
