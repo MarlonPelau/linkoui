@@ -18,7 +18,12 @@
             <div class="rhyme-logo">
                 <img src="https://24.media.tumblr.com/ec1355562ede3cc61e09c5cfd99a2e1e/tumblr_ms2p598V9i1sd5eo5o1_500.gif" alt="chance"">
                 <h1>COME SEE!</h1>
-                
+                <form id="rhymeForm">
+                    <label for="word">Enter a word:</label>
+                    <input type="text" id="word" name="word" required>
+                    <button type="submit">Search</button>
+                </form>
+                <ul id="rhymeList"></ul>
             </div>
         </header>
         <main class="grid-container">
@@ -41,9 +46,6 @@
                   /></a>
                 </li>
               </ul>
-            <form action="">
-                
-            </form>
         </footer>
     </div>
     <script src="./main2.js"></script>
